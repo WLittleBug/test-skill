@@ -1,0 +1,26 @@
+{
+  "name": "test-skill",
+  "version": "1.0.0",
+  "description": "A test skill for Hermes Agent demonstrating GitHub integration",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "hermes",
+    "agent",
+    "skill",
+    "github",
+    "mcp"
+  ],
+  "author": "WLittleBug",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLittleBug/test-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WLittleBug/test-skill/issues"
+  },
+  "homepage": "https://github.com/WLittleBug/test-skill#readme"
+}
